@@ -21,3 +21,6 @@ InstaBoost (ICCV2019)
 
 https://github.com/GothicAi/InstaBoost
 
+L2SM (ICCV2019) (counting group)
+
+https://arxiv.org/abs/1907.12428
