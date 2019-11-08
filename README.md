@@ -28,3 +28,9 @@ https://arxiv.org/abs/1907.12428
 CenterNet ()
 
 https://github.com/xingyizhou/CenterNet
+
+
+R-FCN (translation invariance)
+https://zhuanlan.zhihu.com/p/30867916
+
+
