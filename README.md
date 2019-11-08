@@ -31,6 +31,10 @@ https://github.com/xingyizhou/CenterNet
 
 
 R-FCN (translation invariance)
+
 https://zhuanlan.zhihu.com/p/30867916
 
 
+how ROI project to featuremap
+
+https://zhuanlan.zhihu.com/p/24780433
