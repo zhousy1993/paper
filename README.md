@@ -38,3 +38,7 @@ https://zhuanlan.zhihu.com/p/30867916
 how ROI project to featuremap
 
 https://zhuanlan.zhihu.com/p/24780433
+
+Feature Pyramid Network for Object Detection(New Idea Dense Feature Pyramid Network)
+
+https://www.jiqizhixin.com/articles/2017-07-25-2
