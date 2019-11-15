@@ -42,3 +42,7 @@ https://zhuanlan.zhihu.com/p/24780433
 Feature Pyramid Network for Object Detection(New Idea Dense Feature Pyramid Network)
 
 https://www.jiqizhixin.com/articles/2017-07-25-2
+
+recall precision
+
+https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
