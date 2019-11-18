@@ -46,3 +46,13 @@ https://www.jiqizhixin.com/articles/2017-07-25-2
 recall precision
 
 https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c
+
+GA-RPN
+
+https://arxiv.org/pdf/1901.03278.pdf
+
+https://zhuanlan.zhihu.com/p/59398728
+
+https://zhuanlan.zhihu.com/p/55314193
+
+https://zhuanlan.zhihu.com/p/63541933
