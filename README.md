@@ -1,5 +1,9 @@
 # paper
 
+2019 OD
+https://zhuanlan.zhihu.com/p/59398728
+
+
 
 Mirror Net (ICCV2019)
 
